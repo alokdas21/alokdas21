@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arijit Koley</h1>
+<h1 align="center">Hi 👋, I'm Alok Das</h1>
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
 
 - 🌱 I’m currently learning **CodeIgniter**
